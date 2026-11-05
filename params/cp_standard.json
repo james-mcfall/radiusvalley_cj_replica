@@ -1,0 +1,16 @@
+{
+  "model": "cp",
+  "source": "CKS-Gaia conditional fit + Greco+26 contrast term",
+  "params": {
+    "logm_mu": 0.5168748503384323,
+    "logm_sigma": 0.17468982388496018,
+    "f0_norm": 0.03981884533232713,
+    "f0_scatter_dex": 0.15864159803973735,
+    "rho": 4.952335833536707,
+    "rho_scatter_dex": 0.19670717810140168,
+    "gamma_m": 1.1723906225915126,
+    "delta_mz": 0.18668832799428065,
+    "delta_fz": -0.5038735033489886,
+    "log_kappa_fac": 0.0
+  }
+}
