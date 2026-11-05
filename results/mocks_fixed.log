@@ -1,0 +1,4 @@
+DATA (488 planets): f = [0.563 0.721 0.695]; Δf = +0.133
+cp_standard.json       mock f = [0.436 0.524 0.56 ]; Δf = +0.124 ± 0.076
+pe_standard.json       mock f = [0.47  0.529 0.547]; Δf = +0.076 ± 0.088
+cp_slow_cooling.json   mock f = [0.243 0.436 0.502]; Δf = +0.259 ± 0.082

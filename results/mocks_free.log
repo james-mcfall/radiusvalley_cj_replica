@@ -1,0 +1,4 @@
+DATA (488 planets): f = [0.647 0.704 0.685]; Δf = +0.038; SE shift <1 Gyr -0.167, SN shift <1 Gyr -0.003
+cp_standard.json       mock f = [0.476 0.532 0.544]; Δf = +0.068 ± 0.078; SE shift <1 Gyr +0.008 ± 0.027; SN shift <1 Gyr +0.080 ± 0.036
+pe_standard.json       mock f = [0.489 0.537 0.538]; Δf = +0.049 ± 0.088; SE shift <1 Gyr -0.008 ± 0.020; SN shift <1 Gyr +0.040 ± 0.016
+cp_slow_cooling.json   mock f = [0.267 0.46  0.502]; Δf = +0.235 ± 0.070; SE shift <1 Gyr +0.030 ± 0.030; SN shift <1 Gyr +0.146 ± 0.043
